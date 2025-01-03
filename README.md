@@ -1,4 +1,6 @@
-# human_anatomy a Human Body part Selection package for Flutter
+# An updated version of human_anatomy : a Human Body part Selection package for Flutter
+## Added support for null-safety
+## Credit to : [Sheikhsoft](https://github.com/Sheikhsoft/human_anatomy)
 
 [![pub package](https://img.shields.io/pub/v/human_anatomy.svg)](https://pub.dartlang.org/packages/human_anatomy)
 
